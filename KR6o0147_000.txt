@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 勝軍化世百喻伽他經
+#+DATE: 2015-08-30 21:01:45.247568
+#+PROPERTY: JUAN 0
