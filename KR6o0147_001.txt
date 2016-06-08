@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:45.050896
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:01
 #+TITLE: 勝軍化世百喻伽他經
 #+PROPERTY: CBETA_ID T32n1692
 #+PROPERTY: ID KR6o0147
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1692
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0147_T_000-0788b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0147_T_001-0788b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1692¶
-
- 勝軍化世百喻伽他經¶
+No. 1692¶
+勝軍化世百喻伽他經¶
 ¶
-西天中印度惹爛馱羅國密林¶
-寺三藏明教大師賜紫沙門臣¶
+西天中印度惹爛馱羅國密林寺三藏明教大師賜紫沙門臣¶
 天息災奉　詔譯¶
 
 #+BEGIN_VERSE
@@ -419,7 +417,7 @@ No.1692¶
 　如是一切所作業
 　若能後有不復生¶
 　生老病苦及無常
-　續續未委從何來
+　續續未委從何來」
 #+END_VERSE
-」¶
+¶
 勝軍化世百喻伽他經
