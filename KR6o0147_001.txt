@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:45.050896
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:01
 #+TITLE: 勝軍化世百喻伽他經
 #+PROPERTY: CBETA_ID T32n1692
 #+PROPERTY: ID KR6o0147
@@ -419,7 +419,7 @@ No.1692¶
 　如是一切所作業
 　若能後有不復生¶
 　生老病苦及無常
-　續續未委從何來
+　續續未委從何來」
 #+END_VERSE
-」¶
+¶
 勝軍化世百喻伽他經
